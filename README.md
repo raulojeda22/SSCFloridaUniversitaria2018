@@ -1,5 +1,5 @@
 # SSCFloridaUniversitaria2018
-The winning scripts of the III Shell Script Challenge of the Florida Universitaria (Catarroja)
+The 3 winning scripts by Raül Ojeda of the III Shell Script Challenge of the Florida Universitaria (Catarroja)
 
 <table width="673">
 <tbody>
