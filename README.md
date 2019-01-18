@@ -307,26 +307,20 @@ The 3 winning scripts by Raül Ojeda of the III Shell Script Challenge of the Fl
 </table>
 
 <h1>Challenges</h1>
-
-
-	<header class="entry-header">
-		
-		<div class="post-date">
-					<a href="https://floridauniversitariatic.wordpress.com/2018/04/27/1er-reto-ssc-2018/" title="Enlace permanente a 1er Reto (SSC&nbsp;2018)" rel="bookmark">
-				<span class="month">Abr</span>
-				<span class="day">27</span>
-				<span class="year">2018</span>
-			</a>
-				</div>
-
-				
-							<h1 class="entry-title">
-									<a href="https://floridauniversitariatic.wordpress.com/2018/04/27/1er-reto-ssc-2018/" rel="bookmark">1er Reto (SSC&nbsp;2018)</a>
-							</h1>
-			</header><!-- .entry-header -->
-
-		<div class="entry-content">
-		<p><strong>Enunciado:</strong></p>
+<header class="entry-header">
+<div class="post-date">
+<a href="https://floridauniversitariatic.wordpress.com/2018/04/27/1er-reto-ssc-2018/" title="Enlace permanente a 1er Reto (SSC&nbsp;2018)" rel="bookmark">
+<span class="month">Abr</span>
+<span class="day">27</span>
+<span class="year">2018</span>
+</a>
+</div>
+<h1 class="entry-title">
+<a href="https://floridauniversitariatic.wordpress.com/2018/04/27/1er-reto-ssc-2018/" rel="bookmark">1er Reto (SSC&nbsp;2018)</a>
+</h1>
+</header><!-- .entry-header -->
+<div class="entry-content">
+<p><strong>Enunciado:</strong></p>
 <p style="text-align:justify;">Tenemos un fichero llamado <strong>“<span class="skimlinks-unlinked">usuarios.txt</span>” </strong>(puedes descargarlo de <a href="http://18.236.201.143/usuarios.txt">aquí</a>)&nbsp;con el siguiente formato: <strong>nombre de usuario</strong> y <strong>fecha</strong> en la que se ha logueado en el sistema (día y mes):</p>
 <p>alcaco 18 agosto<br>
 dipepo 12 abril<br>
@@ -356,39 +350,39 @@ pegrab 10 julio<br>
 </li>
 <li>No pongas tu nombre <strong>dentro del fichero</strong>, puesto que se realizará una revisión&nbsp;a ciegas.</li>
 </ul>
-			</div><!-- .entry-content -->
-	
-	<footer class="entry-meta">
-					de <a href="http://jmalberola.wordpress.com" title="Visitar el sitio de jmalberola" rel="author external">jmalberola</a>
-						<span class="sep"> • </span>
-			<span class="cat-links">
-				Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>			</span>
-			
-			
-					
-				<div class="comments-link">
-			<a href="https://floridauniversitariatic.wordpress.com/2018/04/27/1er-reto-ssc-2018/#respond"><span class="no-replies">0</span></a>		</div>
-			</footer><!-- #entry-meta -->
+</div><!-- .entry-content -->
+
+<footer class="entry-meta">
+de <a href="http://jmalberola.wordpress.com" title="Visitar el sitio de jmalberola" rel="author external">jmalberola</a>
+<span class="sep"> • </span>
+<span class="cat-links">
+Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>			</span>
 
 
-	<header class="entry-header">
-		
-		<div class="post-date">
-					<a href="https://floridauniversitariatic.wordpress.com/2018/05/04/2o-reto-ssc-2018/" title="Enlace permanente a 2º Reto (SSC&nbsp;2018)" rel="bookmark">
-				<span class="month">May</span>
-				<span class="day">4</span>
-				<span class="year">2018</span>
-			</a>
-				</div>
 
-				
-							<h1 class="entry-title">
-									<a href="https://floridauniversitariatic.wordpress.com/2018/05/04/2o-reto-ssc-2018/" rel="bookmark">2º Reto (SSC&nbsp;2018)</a>
-							</h1>
-			</header><!-- .entry-header -->
+<div class="comments-link">
+<a href="https://floridauniversitariatic.wordpress.com/2018/04/27/1er-reto-ssc-2018/#respond"><span class="no-replies">0</span></a>		</div>
+</footer><!-- #entry-meta -->
 
-		<div class="entry-content">
-		<p>&nbsp;</p>
+
+<header class="entry-header">
+
+<div class="post-date">
+<a href="https://floridauniversitariatic.wordpress.com/2018/05/04/2o-reto-ssc-2018/" title="Enlace permanente a 2º Reto (SSC&nbsp;2018)" rel="bookmark">
+<span class="month">May</span>
+<span class="day">4</span>
+<span class="year">2018</span>
+</a>
+</div>
+
+
+<h1 class="entry-title">
+<a href="https://floridauniversitariatic.wordpress.com/2018/05/04/2o-reto-ssc-2018/" rel="bookmark">2º Reto (SSC&nbsp;2018)</a>
+</h1>
+</header><!-- .entry-header -->
+
+<div class="entry-content">
+<p>&nbsp;</p>
 <p><strong>Enunciado:</strong></p>
 <p>En este reto, deberás escribir un <strong>Shell Script</strong> que:</p>
 <ul>
@@ -417,39 +411,39 @@ pegrab 10 julio<br>
 </li>
 <li>No pongas tu nombre <strong>dentro del fichero</strong>, puesto que se realizará una revisión&nbsp;a ciegas.</li>
 </ul>
-			</div><!-- .entry-content -->
-	
-	<footer class="entry-meta">
-					de <a href="http://jmalberola.wordpress.com" title="Visitar el sitio de jmalberola" rel="author external">jmalberola</a>
-						<span class="sep"> • </span>
-			<span class="cat-links">
-				Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>			</span>
-			
-			
-					
-				<div class="comments-link">
-			<a href="https://floridauniversitariatic.wordpress.com/2018/05/04/2o-reto-ssc-2018/#respond"><span class="no-replies">0</span></a>		</div>
-			</footer><!-- #entry-meta -->
+</div><!-- .entry-content -->
+
+<footer class="entry-meta">
+de <a href="http://jmalberola.wordpress.com" title="Visitar el sitio de jmalberola" rel="author external">jmalberola</a>
+<span class="sep"> • </span>
+<span class="cat-links">
+Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>			</span>
 
 
-	<header class="entry-header">
-		
-		<div class="post-date">
-					<a href="https://floridauniversitariatic.wordpress.com/2018/05/11/3er-reto-ssc-2018/" title="Enlace permanente a 3er Reto (SSC&nbsp;2018)" rel="bookmark">
-				<span class="month">May</span>
-				<span class="day">11</span>
-				<span class="year">2018</span>
-			</a>
-				</div>
 
-				
-							<h1 class="entry-title">
-									<a href="https://floridauniversitariatic.wordpress.com/2018/05/11/3er-reto-ssc-2018/" rel="bookmark">3er Reto (SSC&nbsp;2018)</a>
-							</h1>
-			</header><!-- .entry-header -->
+<div class="comments-link">
+<a href="https://floridauniversitariatic.wordpress.com/2018/05/04/2o-reto-ssc-2018/#respond"><span class="no-replies">0</span></a>		</div>
+</footer><!-- #entry-meta -->
 
-		<div class="entry-content">
-		<p><strong>Enunciado:</strong></p>
+
+<header class="entry-header">
+
+<div class="post-date">
+<a href="https://floridauniversitariatic.wordpress.com/2018/05/11/3er-reto-ssc-2018/" title="Enlace permanente a 3er Reto (SSC&nbsp;2018)" rel="bookmark">
+<span class="month">May</span>
+<span class="day">11</span>
+<span class="year">2018</span>
+</a>
+</div>
+
+
+<h1 class="entry-title">
+<a href="https://floridauniversitariatic.wordpress.com/2018/05/11/3er-reto-ssc-2018/" rel="bookmark">3er Reto (SSC&nbsp;2018)</a>
+</h1>
+</header><!-- .entry-header -->
+
+<div class="entry-content">
+<p><strong>Enunciado:</strong></p>
 <p>En este reto, vamos a apostar a la carta más alta contra el ordenador. Para ello, deberás crear un <strong>Shell Script</strong> que permita un juego entre el <strong>jugador</strong> y el <strong>ordenador</strong> (que ejerce de <strong>crupier</strong>).</p>
 <p>Al inicio del juego, se pregunta el <strong>nombre</strong> del jugador y un <strong>saldo</strong> de dinero disponible. A partir de aquí, empieza una partida.</p>
 <p>La dinámica para jugar <strong>una partida</strong> es la siguiente:</p>
@@ -493,18 +487,18 @@ pegrab 10 julio<br>
 <li>No pongas tu nombre <strong>dentro del fichero</strong>, puesto que se realizará una revisión&nbsp;a ciegas.</li>
 </ul>
 <p>&nbsp;</p>
-			</div><!-- .entry-content -->
-	
-	<footer class="entry-meta">
-					de <a href="http://jmalberola.wordpress.com" title="Visitar el sitio de jmalberola" rel="author external">jmalberola</a>
-						<span class="sep"> • </span>
-			<span class="cat-links">
-				Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>			</span>
-			
-			
-					
-				<div class="comments-link">
-			<a href="https://floridauniversitariatic.wordpress.com/2018/05/11/3er-reto-ssc-2018/#respond"><span class="no-replies">0</span></a>		</div>
-			</footer><!-- #entry-meta -->
+</div><!-- .entry-content -->
+
+<footer class="entry-meta">
+de <a href="http://jmalberola.wordpress.com" title="Visitar el sitio de jmalberola" rel="author external">jmalberola</a>
+<span class="sep"> • </span>
+<span class="cat-links">
+Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>			</span>
+
+
+
+<div class="comments-link">
+<a href="https://floridauniversitariatic.wordpress.com/2018/05/11/3er-reto-ssc-2018/#respond"><span class="no-replies">0</span></a>		</div>
+</footer><!-- #entry-meta -->
 
 
