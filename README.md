@@ -352,18 +352,6 @@ pegrab 10 julio<br>
 </ul>
 </div><!-- .entry-content -->
 
-<footer class="entry-meta">
-de <a href="http://jmalberola.wordpress.com" title="Visitar el sitio de jmalberola" rel="author external">jmalberola</a>
-<span class="sep"> • </span>
-<span class="cat-links">
-Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>			</span>
-
-
-
-<div class="comments-link">
-<a href="https://floridauniversitariatic.wordpress.com/2018/04/27/1er-reto-ssc-2018/#respond"><span class="no-replies">0</span></a>		</div>
-</footer><!-- #entry-meta -->
-
 
 <header class="entry-header">
 
@@ -413,17 +401,6 @@ Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/unc
 </ul>
 </div><!-- .entry-content -->
 
-<footer class="entry-meta">
-de <a href="http://jmalberola.wordpress.com" title="Visitar el sitio de jmalberola" rel="author external">jmalberola</a>
-<span class="sep"> • </span>
-<span class="cat-links">
-Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>			</span>
-
-
-
-<div class="comments-link">
-<a href="https://floridauniversitariatic.wordpress.com/2018/05/04/2o-reto-ssc-2018/#respond"><span class="no-replies">0</span></a>		</div>
-</footer><!-- #entry-meta -->
 
 
 <header class="entry-header">
@@ -488,17 +465,5 @@ Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/unc
 </ul>
 <p>&nbsp;</p>
 </div><!-- .entry-content -->
-
-<footer class="entry-meta">
-de <a href="http://jmalberola.wordpress.com" title="Visitar el sitio de jmalberola" rel="author external">jmalberola</a>
-<span class="sep"> • </span>
-<span class="cat-links">
-Publicado en <a href="https://floridauniversitariatic.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>			</span>
-
-
-
-<div class="comments-link">
-<a href="https://floridauniversitariatic.wordpress.com/2018/05/11/3er-reto-ssc-2018/#respond"><span class="no-replies">0</span></a>		</div>
-</footer><!-- #entry-meta -->
 
 
